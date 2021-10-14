@@ -1,0 +1,18 @@
+.iframe {
+    max-width: 1400px;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 0 2em;
+}
+
+.iframe__list {
+    display: flex;
+    flex-direction: column;
+}
+
+.iframe__list_item {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 0;
+}
